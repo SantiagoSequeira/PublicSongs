@@ -1,5 +1,5 @@
 {
-  "version": "2025-01-01T00:00:00Z",
+  "version": "2025-10-29T16:00:00Z",
   "checksum": "",
   "songs": [
     {
@@ -12,6 +12,17 @@
       "chords": false,
       "language": "es",
       "tags": ["alabanza"]
+    },
+    {
+      "id": "2",
+      "title": "Amor Infinito",
+      "verses": [
+        "Tu amor me alcanzó",
+        "Coro: Amor infinito"
+      ],
+      "chords": true,
+      "language": "es",
+      "tags": ["adoración"]
     }
   ]
 }

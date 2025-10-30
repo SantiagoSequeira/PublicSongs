@@ -1,28 +1,11 @@
 {
-  "version": "2025-10-29T16:00:00Z",
-  "checksum": "",
-  "songs": [
-    {
-      "id": "1",
-      "title": "Santo",
-      "verses": [
-        "Te alabamos, Señor",
-        "Coro: Santo, Santo"
-      ],
-      "chords": false,
-      "language": "es",
-      "tags": ["alabanza"]
-    },
-    {
-      "id": "2",
-      "title": "Amor Infinito",
-      "verses": [
-        "Tu amor me alcanzó",
-        "Coro: Amor infinito"
-      ],
-      "chords": true,
-      "language": "es",
-      "tags": ["adoración"]
-    }
-  ]
+     "version": 1,
+     "songs": [
+          {
+               "id": 1,
+               "titulo": "asd",
+               "letra": "Buscando [G]caminos comencé a [C]caminar las noches, las dudas, [C]no podía avanzar, una luz quise encontrar  y aprender a caminar, encendiste mi lámpara al andar.\n\nSoy muy feliz Señor, tan junto a Ti todo dejé al partir, vivo por Ti y aunque no viva más, morir por Ti será mi ofrenda de amor para la paz.\n",
+               "tipo": 1
+          }
+     ]
 }

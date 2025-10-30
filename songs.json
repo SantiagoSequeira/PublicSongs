@@ -6,6 +6,12 @@
                "titulo": "asd",
                "letra": "Buscando [G]caminos comencé a [C]caminar las noches, las dudas, [C]no podía avanzar, una luz quise encontrar  y aprender a caminar, encendiste mi lámpara al andar.\n\nSoy muy feliz Señor, tan junto a Ti todo dejé al partir, vivo por Ti y aunque no viva más, morir por Ti será mi ofrenda de amor para la paz.\n",
                "tipo": 1
+          },
+          {
+               "id": 2,
+               "titulo": "asd1",
+               "letra": "Buscando [G]caminos comencé a [C]caminar las noches, las dudas, [C]no podía avanzar, una luz quise encontrar  y aprender a caminar, encendiste mi lámpara al andar.\n\nSoy muy feliz Señor, tan junto a Ti todo dejé al partir, vivo por Ti y aunque no viva más, morir por Ti será mi ofrenda de amor para la paz.\n",
+               "tipo": 2
           }
      ]
 }
